@@ -1,0 +1,16 @@
+pt-BR:
+  activerecord:
+    models:
+      instrument: Instrumento
+    attributes:
+      instrument:
+        title : "Título"
+        price: "Preço"
+        model: "Modelo"
+        description: "Descrição"
+        brand: "Marca"
+        finish: "Acabamento"
+        condition: "Condição"
+        image: "Imagem"
+        
+      # will translate User attribute "login" as "Handle"
